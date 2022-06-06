@@ -1,5 +1,4 @@
 #include <Arduino.h>
-// Esta libreria nos permitirá comunicarnos con I2C.
 #include <Wire.h>
 
 void setup()
@@ -51,5 +50,5 @@ void loop()
   else
     Serial.println("done\n");
  
-  delay(5000);           // wait 5 seconds for next scan
+  delay(5000); // wait 5 seconds for next scan
 }
