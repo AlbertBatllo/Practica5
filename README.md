@@ -65,7 +65,7 @@ void loop()
 
 # Practica 5B: Comunicació Dispay I2C
 
-##Codi
+## Codi
 
 ```
 #include <Arduino.h>
