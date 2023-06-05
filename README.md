@@ -138,7 +138,7 @@ display.setTextSize(1);
   // Posición del texto
   display.setCursor(10, 32);
   // Escribir texto
-  display.println("GERARD I FERRAN PRACTICA 5");
+  display.println("PRACTICA 5 I2C");
  
   // Enviar a pantalla
   display.display();
